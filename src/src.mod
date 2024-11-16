@@ -12,4 +12,4 @@ tags={
 	"Technologies"
 }
 supported_version="1.15.*"
-path="mod/AEF/src"
+path="mod/TD-HOI4/src"
